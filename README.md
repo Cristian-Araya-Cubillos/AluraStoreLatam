@@ -28,7 +28,7 @@ Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bib
 
 3. Calificación Promedio: Se calcula la media de las calificaciones de los productos en cada tienda, como medida de satisfacción del cliente.
 
-4. Productos Más y Menos Vendidos :Se identifican los productos más populares y aquellos menos populares.
+4. Productos Más y Menos Vendidos : Se identifican los productos más populares y aquellos menos populares.
 
 5. Costo de Envío Promedio: Se compara el promedio del costo de envío por tienda.
 
