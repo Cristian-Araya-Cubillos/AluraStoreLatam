@@ -1,6 +1,6 @@
 # Análisis de Rendimiento de Tiendas – AluraStore Latam
 
-Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas online de la empresa **AluraStore Latam**, con el fin de determinar cuál de ellas presenta el peor desempeño y debería ser cerrada.
+Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas online de la empresa de **Sr Juan**, con el fin de determinar cuál de ellas presenta el peor desempeño y debería ser cerrada.
 
 ## Dataset
 
