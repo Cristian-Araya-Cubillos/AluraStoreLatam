@@ -26,11 +26,11 @@ Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bib
 
 2. Ventas por Categoría: Se analiza cuántos productos se vendieron por cada categoría en cada tienda, para ver la diversificación de ventas.
 
-3️. Calificación Promedio: Se calcula la media de las calificaciones de los productos en cada tienda, como medida de satisfacción del cliente.
+3. Calificación Promedio: Se calcula la media de las calificaciones de los productos en cada tienda, como medida de satisfacción del cliente.
 
-4️. Productos Más y Menos Vendidos :Se identifican los productos más populares y aquellos menos populares.
+4. Productos Más y Menos Vendidos :Se identifican los productos más populares y aquellos menos populares.
 
-5️. Costo de Envío Promedio: Se compara el promedio del costo de envío por tienda.
+5. Costo de Envío Promedio: Se compara el promedio del costo de envío por tienda.
 
 
 # Recomendacion
