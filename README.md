@@ -1,22 +1,20 @@
-# 🛍️ Análisis de Rendimiento de Tiendas – AluraStore Latam
+# Análisis de Rendimiento de Tiendas – AluraStore Latam
 
 Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas online de la empresa **AluraStore Latam**, con el fin de determinar cuál de ellas presenta el peor desempeño y debería ser cerrada.
 
-## 📦 Dataset
+## Dataset
 
 Se analizaron datos de cuatro tiendas disponibles públicamente en formato CSV, a través de enlaces directos en GitHub.
 
 ---
 
-## 🧰 Bibliotecas necesarias
+## Bibliotecas necesarias
 
 Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bibliotecas:
 
 ```
 !pip install pandas matplotlib
 ```
-
-
 ## Ejecucion
 * Clona este repositorio o descarga el notebook AluraStoreLatam.ipynb.
 * Ejecuta cada celda en orden para realizar el análisis completo.
