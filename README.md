@@ -1,4 +1,4 @@
-# Análisis de Rendimiento de Tiendas – AluraStore Latam
+# Análisis de Rendimiento de Tiendas – Sr Juan
 
 Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas online de la empresa de **Sr Juan**, con el fin de determinar cuál de ellas presenta el peor desempeño y debería ser cerrada.
 
