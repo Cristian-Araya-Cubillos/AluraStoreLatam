@@ -23,18 +23,23 @@ Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bib
 # Análisis realizados
 
 1️. Ingresos Totales por Tienda
+  
   Se suman los precios de todos los productos vendidos para evaluar qué tienda genera más ingresos.
-
+  
 2. Ventas por Categoría
-  Se analiza cuántos productos se vendieron por cada categoría en cada tienda, para ver la diversificación de ventas.
+
+Se analiza cuántos productos se vendieron por cada categoría en cada tienda, para ver la diversificación de ventas.
 
 3️. Calificación Promedio
+  
   Se calcula la media de las calificaciones de los productos en cada tienda, como medida de satisfacción del cliente.
 
 4️. Costo de Envío Promedio
+  
   Se compara el promedio del costo de envío por tienda.
 
 5️. Productos Más y Menos Vendidos (opcional)
+  
   Se identifican los productos más populares y aquellos con menor rotación para decisiones de inventario.
 
 
