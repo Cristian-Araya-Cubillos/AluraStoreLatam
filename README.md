@@ -25,7 +25,6 @@ Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bib
 1️. Ingresos Totales por Tienda
   
   Se suman los precios de todos los productos vendidos para evaluar qué tienda genera más ingresos.
-  
 2. Ventas por Categoría
 
 Se analiza cuántos productos se vendieron por cada categoría en cada tienda, para ver la diversificación de ventas.
